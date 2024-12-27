@@ -4,4 +4,6 @@ The Electrical Engineering Simulator is a C++ project that leverages Object-Orie
 ## Technologies used : 
 C++ , Object Oriented Programming
 ## Simulator Images : 
+![Uploading op1.png…]()
+![op2](https://github.com/user-attachments/assets/14979a6e-475c-485f-b71e-0ab262f46ed3)
 
